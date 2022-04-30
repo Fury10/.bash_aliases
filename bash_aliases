@@ -51,12 +51,6 @@ alias myip='echo My WAN/Public IP Is: $pubip && echo Your LAN/Private IP Is: $pr
 # Ideally Needs more information showing: DNS Servers, Default Gateway, DHCP or Static, MAC Address, DNS Suffix, Subnet Mask, Hostname and maybe more?
 
 
-# CD 
-alias ..='cd ..'
-alias ...='cd ...'
-alias . = 'cd ~'
-
-
 # Github + Git
 alias g='git'
 alias ga='git add'
